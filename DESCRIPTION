@@ -14,3 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     dplyr
+URL: https://github.com/rheab1/toypackage
+BugReports: https://github.com/rheab1/toypackage/issues
